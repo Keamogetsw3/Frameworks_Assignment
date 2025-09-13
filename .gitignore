@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore data files
+data/metadata.csv
+
+# Ignore virtual environments
+venv/
+.env/
